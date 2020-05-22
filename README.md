@@ -1,7 +1,7 @@
-**Name**: Challenge 01
+# CTF Workshop
 
-**Difficulty**: Easy
+### Welcome to our workshop !
 
-**Topics**: ELF, Introduction
+There are 8 challenges waiting to be solved, good luck !
 
-This first challenge is related to ELF and string binary.
+#### Created by *Loic Branstett* and *Louis Kleiver*
