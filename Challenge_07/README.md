@@ -6,4 +6,5 @@
 
 You need to connect to a given server to get the flag.
 
-Host: 89.157.245.109:3002
+Host: 89.157.245.109  
+Port: 3002
