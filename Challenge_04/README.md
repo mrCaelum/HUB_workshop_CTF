@@ -2,6 +2,6 @@
 
 **Difficulty**: Medium
 
-**Topics**: Memory
+**Topics**: Debugging tools
 
-This challenge consist of accessing the memory to get the password.
+Find out *what the program is doing* and you'll get the flag.

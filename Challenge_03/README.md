@@ -1,7 +1,7 @@
 **Name**: Challenge 03
 
-**Difficulty**: Medium/Hard
+**Difficulty**: Medium
 
-**Topics**: Randomization
+**Topics**: Memory
 
-This challenge consist of modifing of program input to get the flag.
+This challenge consist of accessing the memory to get the password.

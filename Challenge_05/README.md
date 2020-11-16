@@ -1,7 +1,7 @@
 **Name**: Challenge 05
 
-**Difficulty**: Medium
+**Difficulty**: Medium/Hard
 
-**Topics**: Debugging tools
+**Topics**: Randomization
 
-Find out *what the program is doing* and you'll get the flag.
+This challenge consist of modifing of program input to get the flag.
