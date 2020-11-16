@@ -1,6 +1,6 @@
 **Name**: Challenge 05
 
-**Difficulty**: Medium/Hard
+**Difficulty**: Hard
 
 **Topics**: Randomization
 
