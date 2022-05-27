@@ -17,4 +17,4 @@ There are 8 challenges waiting to be solved, good luck !
 | 07        | WEB      | Medium     |
 | 08        | WEB      | Hard       |
 
-#### Created by *Loïc BRANSTETT* and *Louis KLEIVER*
+#### Created by *urgau* and *mrCaelum*
